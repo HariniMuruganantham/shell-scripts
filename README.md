@@ -28,17 +28,6 @@ This repository focuses on:
 -   Interview-ready, portfolio-quality scripts
     
 
-All scripts are:
-
--   ✅ Modular
-    
--   ✅ Config-driven
-    
--   ✅ Cloud/VM friendly (EC2 compatible)
-    
--   ✅ Beginner-to-advanced DevOps aligned
-    
-
 ----------
 
 ## 📁 Repository Structure
