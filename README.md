@@ -80,10 +80,6 @@ Collects detailed system information in a structured and readable format.
     
 -   Hardware summary
     
-
-**Use Case:**  
-System audits, troubleshooting, server documentation, learning Linux internals.
-
 ----------
 
 ### 2️⃣ Log Monitor Script (HTTP 500 Alerting)
@@ -106,11 +102,7 @@ Real-time monitoring of web server logs with **email alerts for HTTP 5xx errors*
 -   Log rotation safe
     
 -   Daemon & foreground modes
-    
-
-**Use Case:**  
-Production incident detection, SRE alerting, server health monitoring.
-
+ 
 ----------
 
 ### 3️⃣ System & Container Monitor Script
@@ -134,10 +126,6 @@ Automated **system + Docker container performance monitoring** with report gener
     
 -   Live terminal dashboard
     
-
-**Use Case:**  
-Lightweight observability, EC2 monitoring, DevOps learning alternative to Prometheus.
-
 ----------
 
 ### 4️⃣ Automated Backup & Disk Cleanup Script
@@ -159,9 +147,6 @@ Automates backups and disk space management.
     
 -   Safe deletion with logging
     
-
-**Use Case:**  
-Routine server maintenance, cron-based automation, storage optimization.
 
 ----------
 
