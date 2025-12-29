@@ -34,17 +34,6 @@ This script provides:
 -   Zero external dependencies beyond standard Linux tools
     
 
-Ideal for:
-
--   EC2 / VM monitoring
-    
--   DevOps learning projects
-    
--   Lightweight observability without Prometheus
-    
--   Interview & portfolio demonstrations
-    
-
 ----------
 
 ## ✨ Key Features
