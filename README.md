@@ -178,7 +178,10 @@ Uses Linux utilities such as shuf, awk, and read -t
 
 Clean, menu-driven terminal UI
 
+----------
+
 **Use Case:**
+
 Linux shell scripting practice, beginner DevOps learning, understanding interactive Bash programs, and improving typing accuracy in terminal environments.
 ----------
 
