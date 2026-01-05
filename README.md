@@ -180,9 +180,10 @@ Clean, menu-driven terminal UI
 
 ----------
 
-**Use Case:**
+## Use Case:
 
 Linux shell scripting practice, beginner DevOps learning, understanding interactive Bash programs, and improving typing accuracy in terminal environments.
+
 ----------
 
 ## 🛠️ Requirements
