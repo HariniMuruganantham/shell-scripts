@@ -63,6 +63,10 @@ linux-shell-devops-projects/
 │   └── backup_and_cleanup.sh
 │   └── README.md
 │
+├── typing-game/
+│   ├── typing_game.sh
+│   └── README.md
+│
 └── README.md
 
 
@@ -174,6 +178,34 @@ Automates backups and disk space management.
 **Use Case:**  
 Routine server maintenance, cron-based automation, storage optimization.
 
+----------
+
+### 5️⃣ Shell Typing Game (Bash)
+
+📄 **File:** `typing-game/typing_game.sh`
+
+**Purpose:**
+An interactive terminal-based typing practice game built using Bash shell scripting.
+The project focuses on user input handling, timing logic, accuracy calculation, and signal handling in Linux.
+
+**Key Features:**
+
+Colored welcome interface with borders
+
+Difficulty selection (Easy / Medium / Hard)
+
+Random word typing with time limits
+
+Accuracy calculation based on user input
+
+Graceful exit using signal handling (Ctrl + C)
+
+Uses Linux utilities such as shuf, awk, and read -t
+
+Clean, menu-driven terminal UI
+
+**Use Case:**
+Linux shell scripting practice, beginner DevOps learning, understanding interactive Bash programs, and improving typing accuracy in terminal environments.
 ----------
 
 ## 🛠️ Requirements

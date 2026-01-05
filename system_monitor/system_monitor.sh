@@ -1,9 +1,12 @@
 #!/bin/bash
 
 ###############################################################################
-# System & Container Monitor Script
-# Automated metrics collection with report generation
+# Project: System & Container Monitor Script
+# Purpose: Automated metrics collection with report generation
 # Monitors system resources and container performance
+# Author: Harini Muruganantham
+# Version: 1.0
+# Date: 21st December 2025
 ###############################################################################
 
 # Configuration

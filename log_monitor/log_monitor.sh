@@ -1,9 +1,12 @@
 #!/bin/bash
 
 ###############################################################################
-# Real-time Log Monitor Script
-# Monitors log files for HTTP 500 errors and sends email alerts
+# Project: Real-time Log Monitor Script
+# Purpose: Monitors log files for HTTP 500 errors and sends email alerts
 # Supports multiple log formats and configurable alert thresholds
+# Author: Harini Muruganantham
+# Version: 1.0
+# Date: 21st December 2025
 ###############################################################################
 
 # Configuration

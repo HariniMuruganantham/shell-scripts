@@ -131,5 +131,5 @@ DevOps portfolio demonstration
 
 🧑‍💻 Author
 Harini Muruganantham
-DevOps Engineer | AWS | Automation
+DevOps | Linux | Shell Scripting | Cloud Automation
 
