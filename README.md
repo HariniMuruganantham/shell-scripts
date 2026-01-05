@@ -28,17 +28,6 @@ This repository focuses on:
 -   Interview-ready, portfolio-quality scripts
     
 
-All scripts are:
-
--   ✅ Modular
-    
--   ✅ Config-driven
-    
--   ✅ Cloud/VM friendly (EC2 compatible)
-    
--   ✅ Beginner-to-advanced DevOps aligned
-    
-
 ----------
 
 ## 📁 Repository Structure
@@ -95,10 +84,6 @@ Collects detailed system information in a structured and readable format.
     
 -   Hardware summary
     
-
-**Use Case:**  
-System audits, troubleshooting, server documentation, learning Linux internals.
-
 ----------
 
 ### 2️⃣ Log Monitor Script (HTTP 500 Alerting)
@@ -121,11 +106,7 @@ Real-time monitoring of web server logs with **email alerts for HTTP 5xx errors*
 -   Log rotation safe
     
 -   Daemon & foreground modes
-    
-
-**Use Case:**  
-Production incident detection, SRE alerting, server health monitoring.
-
+ 
 ----------
 
 ### 3️⃣ System & Container Monitor Script
@@ -149,10 +130,6 @@ Automated **system + Docker container performance monitoring** with report gener
     
 -   Live terminal dashboard
     
-
-**Use Case:**  
-Lightweight observability, EC2 monitoring, DevOps learning alternative to Prometheus.
-
 ----------
 
 ### 4️⃣ Automated Backup & Disk Cleanup Script
@@ -174,9 +151,6 @@ Automates backups and disk space management.
     
 -   Safe deletion with logging
     
-
-**Use Case:**  
-Routine server maintenance, cron-based automation, storage optimization.
 
 ----------
 
@@ -248,7 +222,12 @@ Each script has:
     
 ----------
 
-## 👤 Author
+## 👩‍💻 Author
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harini-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harini-muruganantham)
+[![GitHub](https://img.shields.io/badge/GitHub-Harini-black?style=flat-square&logo=github)](https://github.com/HariniMuruganantham)
+[![Substack](https://img.shields.io/badge/Substack-Harini-orange?style=flat-square&logo=substack)](https://substack.com/@harinimuruganantham)
 
 **Harini Muruganantham**  
-DevOps | Linux | Shell Scripting | Cloud Automation
+DevOps Engineer | AWS | 
+
