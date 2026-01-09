@@ -56,6 +56,10 @@ linux-shell-devops-projects/
 │   ├── typing_game.sh
 │   └── README.md
 │
+├── aws-resource-tracker/
+│ ├── aws-resource-tracker.sh
+│ └── README.md
+│
 └── README.md
 
 
@@ -177,6 +181,26 @@ Graceful exit using signal handling (Ctrl + C)
 Uses Linux utilities such as shuf, awk, and read -t
 
 Clean, menu-driven terminal UI
+
+----------
+### 6️⃣ AWS Resource Usage Report Script
+
+📄 **File:** `aws-resource-tracker/aws-resource-tracker.sh`
+
+**Purpose:**  
+Collects and displays usage information for key AWS services in a single run.
+
+**Covers:**
+
+- S3 Buckets  
+- EC2 Instances  
+- Lambda Functions  
+- IAM Users  
+
+**Technologies Used:**
+
+- AWS CLI  
+- jq (JSON parser) 
 
 ----------
 
